@@ -127,4 +127,7 @@ export class MessageService extends BaseService {
     );
   }
 
+  getMessages() {
+
+  }
 }
